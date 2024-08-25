@@ -3,3 +3,5 @@ Improve model robustness against hardware faults on RRAM accelerators with the l
 
 ## Files
 - **[trainer.py](trainer.py)** is the main training script. The model to be trained and the training hyperparameters are specified by JSON configuration files stored in [config](config). To run the script, run the following command: ```python trainer.py --json config/[your_config_file].json```. Check ```python trainer.py --help``` for legal arguments.
+- **[flops.py](flops.py)** is a script that counts the number of floating-point operations (FLOPs) a particular neural network pass involves when forward passing a sample from a particular dataset.  To run the script, run the following command: ```python flops.py --dataset <dataset> --arch <model>```
+- **[models](models)** contains implementations of various deep learning models. 
