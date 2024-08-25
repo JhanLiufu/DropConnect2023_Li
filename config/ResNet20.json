@@ -1,0 +1,54 @@
+{
+    "dataset" : "cifar10",
+    "arch" : "ResNet",
+    "workers" : 4,
+    "epochs" : 200,
+    "start_epoch" : 0,
+    "lr_step" : 50,
+    "gamma" : 0.1,
+    "batch_size" : 128,
+    "lr" : 0.1,
+    "milestones": [100, 150],
+    "momentum" : 0.9,
+    "wd" : 1e-4,
+    "print_freq" : 30,
+    "resume" : "",
+    "evaluate" : false,
+    "optimizer" : "SGD",
+    "block_setting": 
+    [
+        [3, [{"replace_conv": [0, 0],
+              "drop_probs": [0, 0],
+              "expand_ratios": [0, 0]},
+            {"replace_conv": [0, 0],
+             "drop_probs": [0, 0],
+             "expand_ratios": [0, 0]},
+            {"replace_conv": [0, 0],
+             "drop_probs": [0, 0],
+             "expand_ratios": [0, 0]}
+            ]
+        ], 
+        [3, [{"replace_conv": [0, 0],
+              "drop_probs": [0, 0],
+              "expand_ratios": [0, 0]},
+            {"replace_conv": [0, 0],
+             "drop_probs": [0, 0],
+             "expand_ratios": [0, 0]},
+            {"replace_conv": [0, 1],
+             "drop_probs": [0, 0.1],
+             "expand_ratios": [0, 6]}
+            ]
+        ],
+        [3, [{"replace_conv": [0, 0],
+              "drop_probs": [0, 0],
+              "expand_ratios": [0, 0]},
+            {"replace_conv": [0, 0],
+             "drop_probs": [0, 0],
+             "expand_ratios": [0, 0]},
+            {"replace_conv": [0, 0],
+             "drop_probs": [0, 0],
+             "expand_ratios": [0, 0]}
+            ]
+        ]
+    ]
+}

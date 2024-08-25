@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d6a78e7-a169-4fe4-93f4-0526c9ef724a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DCnBottlenecks_trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/DCnBottlenecks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/DCnBottlenecks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_curve/DCtwoBottlenecks_learning_curve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/resnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/dropnet_testing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/dropnet_testing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JhanLiufu&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="deeeb137-309f-422d-a348-6f2855a2e040" />
+        <option name="url" value="git@github.com:mingyuan-xiang/dropnet.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aetAwllgOkLnQUb3joyMyqbZGX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mengz/Box/Li_Lab/DropConnect/METHODS/dropnet/config&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mengz\Box\Li_Lab\DropConnect\METHODS\dropnet\config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mengz\Box\Li_Lab\DropConnect\METHODS\dropnet\models" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7a29c1521ef0-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.298" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6a78e7-a169-4fe4-93f4-0526c9ef724a" name="Changes" comment="" />
+      <created>1704690732971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704690732971</updated>
+      <workItem from="1704690734150" duration="3142000" />
+      <workItem from="1704823094656" duration="858000" />
+      <workItem from="1704823968716" duration="3451000" />
+      <workItem from="1704909908563" duration="14949000" />
+      <workItem from="1705358232230" duration="1954000" />
+      <workItem from="1705702874075" duration="4927000" />
+      <workItem from="1705775384033" duration="12879000" />
+      <workItem from="1706155152775" duration="320000" />
+      <workItem from="1706551782044" duration="5912000" />
+      <workItem from="1706643488239" duration="12026000" />
+      <workItem from="1706664972661" duration="10276000" />
+      <workItem from="1706895224213" duration="30267000" />
+      <workItem from="1707235895158" duration="1141000" />
+      <workItem from="1707417983822" duration="29639000" />
+      <workItem from="1707844545758" duration="815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
